@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/react-layaans/static/css/main.42e9d72c.css",
+    "main.js": "/react-layaans/static/js/main.14a15f3a.js",
+    "static/media/special-dish-banner.jpg": "/react-layaans/static/media/special-dish-banner.27e0ff70f3bf800c3bbf.jpg",
+    "static/media/hero-slider-3.jpg": "/react-layaans/static/media/hero-slider-3.5e8001288bfb994df3b0.jpg",
+    "static/media/hero-slider-1.jpg": "/react-layaans/static/media/hero-slider-1.5d6b1261aee9578c7890.jpg",
+    "static/media/footer-bg.jpg": "/react-layaans/static/media/footer-bg.70137cc48cb63d996d15.jpg",
+    "static/media/service-1.jpg": "/react-layaans/static/media/service-1.c24f16df213d39ddc84f.jpg",
+    "static/media/service-3.jpg": "/react-layaans/static/media/service-3.c6f47058c58754577b51.jpg",
+    "static/media/hero-slider-2.jpg": "/react-layaans/static/media/hero-slider-2.98030cf1d4449f683c8e.jpg",
+    "static/media/testimonial-bg.jpg": "/react-layaans/static/media/testimonial-bg.a81086b826a2e2978ce3.jpg",
+    "static/media/img-pattern.svg": "/react-layaans/static/media/img-pattern.148d9c075c75a3e657f7.svg",
+    "static/media/about-banner.jpg": "/react-layaans/static/media/about-banner.221a4c771ce2d528a34b.jpg",
+    "static/media/event-2.jpg": "/react-layaans/static/media/event-2.a679b65670e9ff26bd72.jpg",
+    "static/media/event-1.jpg": "/react-layaans/static/media/event-1.2fa05ec844f6b865d178.jpg",
+    "static/media/shape-5.png": "/react-layaans/static/media/shape-5.bd2617fcd17e98d4fb1a.png",
+    "static/media/service-2.jpg": "/react-layaans/static/media/service-2.802d611c2b53e6213952.jpg",
+    "static/media/about-abs-image.jpeg": "/react-layaans/static/media/about-abs-image.e6c2443223e6445ad9c8.jpeg",
+    "static/media/shape-9.png": "/react-layaans/static/media/shape-9.087de47228d164d01959.png",
+    "static/media/footer-form-pattern.svg": "/react-layaans/static/media/footer-form-pattern.7fd6cfcfb07bdb471546.svg",
+    "static/media/event-3.jpg": "/react-layaans/static/media/event-3.82c6609059459252448c.jpg",
+    "static/media/shape-6.png": "/react-layaans/static/media/shape-6.d9f18f13ec963b9bbdf4.png",
+    "static/media/shape-7.png": "/react-layaans/static/media/shape-7.d467f52f7d34a9b45f01.png",
+    "static/media/footer-form-bg.png": "/react-layaans/static/media/footer-form-bg.5919ceba950c7c4cb214.png",
+    "static/media/logo.svg": "/react-layaans/static/media/logo.e62a750f6415901045a7ed5a7a507e34.svg",
+    "static/media/form-pattern.png": "/react-layaans/static/media/form-pattern.1b0559e0aa951b970a3a.png",
+    "static/media/shape-2.png": "/react-layaans/static/media/shape-2.70efc621025dee1d0cd0.png",
+    "static/media/shape-1.png": "/react-layaans/static/media/shape-1.49c2515366d3a9d70158.png",
+    "static/media/shape-3.png": "/react-layaans/static/media/shape-3.d723212f159170c7f95b.png",
+    "static/media/separator.svg": "/react-layaans/static/media/separator.b98c0c4c2ec1b7cd5908.svg",
+    "index.html": "/react-layaans/index.html",
+    "main.42e9d72c.css.map": "/react-layaans/static/css/main.42e9d72c.css.map",
+    "main.14a15f3a.js.map": "/react-layaans/static/js/main.14a15f3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42e9d72c.css",
+    "static/js/main.14a15f3a.js"
+  ]
+}
