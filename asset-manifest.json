@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-layaans/static/css/main.4669924b.css",
+    "main.css": "/react-layaans/static/css/main.48be0b3c.css",
     "main.js": "/react-layaans/static/js/main.473ea06a.js",
     "static/media/special-dish-banner.jpg": "/react-layaans/static/media/special-dish-banner.27e0ff70f3bf800c3bbf.jpg",
     "static/media/hero-slider-3.jpg": "/react-layaans/static/media/hero-slider-3.5e8001288bfb994df3b0.jpg",
@@ -30,11 +30,11 @@
     "static/media/shape-3.png": "/react-layaans/static/media/shape-3.d723212f159170c7f95b.png",
     "static/media/separator.svg": "/react-layaans/static/media/separator.b98c0c4c2ec1b7cd5908.svg",
     "index.html": "/react-layaans/index.html",
-    "main.4669924b.css.map": "/react-layaans/static/css/main.4669924b.css.map",
+    "main.48be0b3c.css.map": "/react-layaans/static/css/main.48be0b3c.css.map",
     "main.473ea06a.js.map": "/react-layaans/static/js/main.473ea06a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4669924b.css",
+    "static/css/main.48be0b3c.css",
     "static/js/main.473ea06a.js"
   ]
 }
